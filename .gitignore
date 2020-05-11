@@ -1,0 +1,27 @@
+COVID-19/
+lib/
+bin/
+pyvenv.cfg
+share/
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.log
+*.orig
+*.rej
+*.swo
+*.swp
+*.vi
+*.zip
+*~
+
+# OS or Editor folders
+._*
+.cache
+.DS_Store
+Thumbs.db
+.bak
+
+# Changelog test
+changelog.txt
